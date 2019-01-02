@@ -5,6 +5,8 @@
 - 책
 
 - Link
+  - 20190102 [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/인텔리j-활용-꿀팁-42가지-정리/)
+  - 20190102 [프로그래머에게 적합한 의도적 수련2](http://www.insightbook.co.kr/13171)
 
 - Paper
   - 20181231 AIDE: An Active Learning-Based Approach for Interactive Data Exploration
