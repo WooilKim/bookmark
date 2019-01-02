@@ -1,0 +1,22 @@
+# AIDE: An Active Learning-Based Approach for Interactive Data Exploration
+## IEEE Transactions on Knowledge and Data Engineering 2016
+## Kyriaki Dimitriadou, Olaga Papaemmanouil, and Yanlei Diao
+- Link
+
+- Reading start : 180102
+- Reading done :
+
+### Abstract
+
+In this paper, we argue that database systems be augmented with an automated data exploration service that methodically
+steers users through the data in a meaningful way. Such an automated system is crucial for deriving insights from complex datasets
+found in many big data applications such as scientiﬁc and healthcare applications as well as for reducing the human effort of data
+exploration. Towards this end, we present AIDE, an Automatic Interactive Data Exploration framework that assists users in discovering
+new interesting data patterns and eliminate expensive ad-hoc exploratory queries. AIDE relies on a seamless integration of
+classiﬁcation algorithms and data management optimization techniques that collectively strive to accurately learn the user interests
+based on his relevance feedback on strategically collected samples. We present a number of exploration techniques as well as
+optimizations that minimize the number of samples presented to the user while offering interactive performance. AIDE can deliver
+highly accurate query predictions for very common conjunctive queries with small user effort while, given a reasonable number of
+samples, it can predict with high accuracy complex disjunctive queries. It provides interactive performance as it limits the user wait time
+per iteration of exploration to less than a few seconds.
+
