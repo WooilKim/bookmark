@@ -19,16 +19,22 @@
 
 ### Link
 
-- 20190107 [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
-- 20190102 [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/인텔리j-활용-꿀팁-42가지-정리/)
-- 20190102 [프로그래머에게 적합한 의도적 수련2](http://www.insightbook.co.kr/13171)
-  
+- 20190110
+  - [Shields IO](https://shields.io/#/)
+- 20190107
+  - [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
+- 20190102
+  - [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/인텔리j-활용-꿀팁-42가지-정리/)
+  - [프로그래머에게 적합한 의도적 수련2](http://www.insightbook.co.kr/13171)
+
 ### Paper
 
-- 20190108 Bus Passenger Origin-Destination Estimation and Related Analyses Using Automated Data Collection Systems
-- 20190108 Estimating Inefficiency in Bus Trip Choices From a User Perspective With Schedule, Positioning, and Ticketing Data
-- 20190108 Data-Driven Transport Policy in Cities: A Literature Review and Implications for Future Developments
-- 20181231 AIDE: An Active Learning-Based Approach for Interactive Data Exploration
-- 20181231 Self-Driving Database Management Systems
-- 20181231 Predicting multiple metrics for queries: Better decisions enabled by machine learning
-- 20181231 Learning-based query performance modeling and prediction
+- 20190108
+  - Bus Passenger Origin-Destination Estimation and Related Analyses Using Automated Data Collection Systems
+  - Estimating Inefficiency in Bus Trip Choices From a User Perspective With Schedule, Positioning, and Ticketing Data
+- 20181231
+  - Data-Driven Transport Policy in Cities: A Literature Review and Implications for Future Developments
+  - AIDE: An Active Learning-Based Approach for Interactive Data Exploration
+  - Self-Driving Database Management Systems
+  - Predicting multiple metrics for queries: Better decisions enabled by machine learning
+  - Learning-based query performance modeling and prediction
