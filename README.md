@@ -22,6 +22,8 @@
 
 ### Link
 
+- 20190115
+  - [Vim을 시작하는 법](https://nolboo.kim/blog/2017/02/24/getting-started-with-vim/)
 - 20190110
   - [Shields IO](https://shields.io/#/)
 - 20190107
